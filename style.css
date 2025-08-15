@@ -31,3 +31,14 @@ form {
   font-size: 18px;
   color: #333;
 }
+
+#search-button {
+  padding: 10px 20px;
+  background-color: #4caf50;
+  color: #fff;
+  border: none;
+  font-size: 18px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, .2);
+  cursor: pointer;
+  border-radius: 5px;
+}
